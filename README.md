@@ -5,7 +5,7 @@ The train schedule application incorporates Firebase to host arrival and departu
 You can access the app: https://swcooper2014.github.io/TrainSchedule
 
 
-Technolgoies Used
+Technologies Used
 
 HTML
 
